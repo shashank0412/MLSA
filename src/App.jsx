@@ -33,7 +33,7 @@ const siteProps = {
   linkedIn: "https://www.linkedin.com/in/shashank-kumar-srivastava-5b9717224/",
   medium: "https://medium.com/@shashank_srivastava",
   twitter: "https://twitter.com/aryans_k14322",
-  youTube: "Code",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
