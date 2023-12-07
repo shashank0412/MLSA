@@ -31,28 +31,28 @@ const imageAltText = "..........";
  */
 const projectList = [
   {
-    title: "https://github.com/shashank0412/Analysis-of-sample-superstore-",
+    title: "Analysis of sample superstore",
     description:
       "Analysis of Sample Superstore",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://github.com/shashank0412/Analysis-of-sample-superstore-",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Cybersecurity Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "College Network Topology",
+    url: "https://github.com/shashank0412/Cisco-Cybersecurity-Virtual-Internship-2023",
   },
   {
-    title: "My Resume Site",
+    title: "Task ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Internship Task",
+    url: "https://github.com/shashank0412/TAIRP",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Code Translator",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Code Translator which can help to translate code into different languages",
+    url: "https://github.com/shashank0412/Code-Translator-Project",
   },
 ];
 
